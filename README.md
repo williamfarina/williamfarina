@@ -6,6 +6,7 @@
 I'm William M. Farina (programmer/artist) @ Brazil. ✍/🎨/🎮/📖/👨‍💻
 
 ![alt text](https://i.imgur.com/6RJjqbO.png)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=306065857413644288)<br>
 ![](https://komarev.com/ghpvc/?username=williamfarina&color=blueviolet)
 
 <h2> Developing with </h2>
